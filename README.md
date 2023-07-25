@@ -1,10 +1,6 @@
 ### Hi, I'm Noe 💵🏀👨‍💻
 
-'''js
-const midudev = {
-    techologles: "wep",
-    passions: ['performance wep', 'wep developent']
-}
+
 You can finf me :
 -Blog
 -[Instagram](https://instagram.com/noe_21_rejazz)
