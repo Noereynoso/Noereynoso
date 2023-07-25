@@ -1,7 +1,7 @@
 ### Hi, I'm Noe 💵🏀👨‍💻
 
 
-You can finf me :
+You can finf me 🌎:
 -Blog
 -[Instagram](https://instagram.com/noe_21_rejazz)
 
