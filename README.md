@@ -2,8 +2,8 @@
 
 
 You can finf me 🌎:
--Blog
--[Instagram](https://instagram.com/noe_21_rejazz)
+- [Blog]
+- [Instagram](https://instagram.com/noe_21_rejazz)
 
 <!--
 **Noereynoso/Noereynoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
