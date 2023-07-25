@@ -1,5 +1,13 @@
 ### Hi, I'm Noe 💵🏀👨‍💻
-![Screenshot_20221002-172811 (2)](https://github.com/Noereynoso/Noereynoso/assets/122371077/7a5bae85-9263-44a4-9368-91bc15b6d63e)
+
+'''js
+const midudev = {
+    techologles: "wep",
+    passions: ['performance wep', 'wep developent']
+}
+You can finf me :
+-Blog
+-[Instagram](https://instagram.com/noe_21_rejazz)
 
 <!--
 **Noereynoso/Noereynoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
