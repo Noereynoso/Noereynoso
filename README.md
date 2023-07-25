@@ -1,5 +1,5 @@
 ### Hi, I'm Noe 💵🏀👨‍💻
-![me]https://user-images.github.com/Screenshot_20221002-172811 (2))
+![Screenshot_20221002-172811 (2)](https://github.com/Noereynoso/Noereynoso/assets/122371077/7a5bae85-9263-44a4-9368-91bc15b6d63e)
 
 <!--
 **Noereynoso/Noereynoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
