@@ -20,8 +20,8 @@ Además, cuando no estoy programando, puedes encontrarme en la cancha jugando **
 ## 📫 ¡Conéctemos!
 Si quieres hablar de código, compartir ideas o simplemente charlar sobre basquet, puedes encontrarme en:
 
-🔗 GitHub: https://github.com/Noereynoso
-🔗 Instagram: https://www.instagram.com/rejazz_21/ 
+🔗🔹 **GitHub:** https://github.com/Noereynoso
+🔗🔹  **Instagram:** https://www.instagram.com/rejazz_21/ 
 
 ¡Siempre abierto a nuevas oportunidades y colaboraciones! 🚀
 
